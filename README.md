@@ -1,3 +1,20 @@
 # personalProjects
 Hola mundo! 
-En esta carpeta podran ver un poco de mis trabajos personales, los cuales fui trabajando con el tiempo, para poder adquirir conocimientos en programacion y diseño web.
+En esta carpeta podran ver un poco de mis trabajos personales, los cuales fui trabajando con el tiempo, para poder adquirir conocimientos en programacion y diseño web;
+
+Carpeta : 04.PDO-MYSQL -> Proyecto en el cual estoy trabajando para practicar lenguaje PHP y su vinculo con bases de datos. Este proyecto tiene un sistema de Login en el cual el usuario, mediante un registro, guarda sus datos en una BBDD y luego mediante la seccion Inicio puede ver todos los datos registrados en la BBDD. (practicar con un sistema CRUD);
+Solamente se encuentra funcional en el proyecto el metodo "Crear" o "Create" del acronimo CRUD;
+Status: Working on It - Incomplete;
+
+Archivo: ResponsiveWeb -> Es una pagina web progrmada desde 0 en HTML y CSS en la cual busque ampliar mis conocimientos en el Front End Development, practicando tecnicas Responsive Desging y Mobile First. Es una pagina muy simple la verdad, la cual hasta el momento no la segui trabajando;
+Se puede previsualizar el proyecto desde el URL que se encuentra en el archivo ResponsiveWeb.
+Status: Paused - Incomplete;
+
+Carpeta : 03.pagina-web -> Fue el primer proyecto en el cual forje mis conocimientos en el desarrollo web front end y donde realmente le encontre el interes a esta hermosa carrera profesional. Basicamente, intente crear un "sistema de Eccomerce", en el cual mediante codigo, se cargaban fotos con distintos articulos virtuales de juegos para su venta;
+Este proyecto me ayudo a adquirir muchismos conocimientos en el desarrollo front end, teniendo en cuenta que lo empece a trabajar a los 17 años;
+Luego pase todo el proyecto a WordPress, el cual obtuve un Theme completamente profesional y mas gustoso para el cliente;
+Status: Without maintenance - Finished;
+
+Proyecto WordPress: -> Cuando realice mi primer pagina web en 2017 (Proyecto de la carpeta 03.pagina-web) conoci el CMS WordPress, el cual mediante tecnicas muchisimas mas sencillas se podian lograr paginas web tanto eccommerce como blogs super profesionales, sin tanto gasto de tiempo en codigo. Por ende, este proyecto fue como mi "primer-pagina-web2.0", porque mediante las ideas de proyectos pasados pude lograr construir y trabajar con WordPress;
+Status: Without maintenance - Finished;
+
